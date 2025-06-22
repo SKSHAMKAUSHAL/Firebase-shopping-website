@@ -1,6 +1,6 @@
 import React, { useContext } from 'react'
 import MyContext from '../../Context/data/useContext'
-import Layout from '../../components/layout/Layout'
+import Layout from '../../Components/layout/Layout.jsx'
 import Loader from '../../components/loader/Loader'
 
 function Order() {
