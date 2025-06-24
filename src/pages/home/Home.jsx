@@ -1,6 +1,6 @@
 import React from 'react'
 import HeroSection from '../../Components/heroSection/HeroSection'
-import Layout from '../../components/layout/Layout'
+import Layout from '../../components/layout/Layout.jsx'
 import Filter from '../../Components/filter/Filter'
 import ProductCard from '../../Components/productCard/ProductCard'
 import Track from '../../Components/track/Track'
