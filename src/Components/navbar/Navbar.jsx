@@ -189,7 +189,7 @@ function Navbar() {
                     {/* <MdDarkMode size={35} style={{ color: mode === 'dark' ? 'white' : '' }} /> */}
                     {mode === 'light' ?
                       (<FiSun className='' size={30} />
-                      ) : 'dark' ?
+                      ) : "dark" ?
                         (<BsFillCloudSunFill size={30} />
                         ) : ''}
                   </button>
